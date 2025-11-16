@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Wajeeh', // Use your repo name here
+  base: '/Wajeeh/Frontend', // Use your repo name here
 });
